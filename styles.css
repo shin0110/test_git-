@@ -1,0 +1,18 @@
+.test1 {
+color: red;
+font-size: 24px;
+font-family: sans-selif,verdana;
+margin-top: 4px;
+}
+
+.test2 {
+color: blue;
+font-size: 24px;
+font-family: sans-selif,verdana;
+margin-top: 4px;
+}
+
+button {
+  font-size: 24px;
+  margin-top: 4px;
+}
